@@ -169,7 +169,8 @@ body {
 .reveal table {
   margin: auto;
   border-collapse: collapse;
-  border-spacing: 0; }
+  border-spacing: 0;
+  font-size: 20px;}
 
 .reveal table th {
   font-weight: bold; }
